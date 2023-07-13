@@ -1,0 +1,7 @@
+{
+  "solidity.remappings": [
+    "forge-std/=D:/TAF/Blockchain/foundry_learning/lib/forge-std/src/",
+    "solmate/=D:/TAF/Blockchain/foundry_learning/lib/solmate/src/",
+    "@openzeppelin/=D:/TAF/Blockchain/foundry_learning/node_modules/@openzeppelin/contracts"
+  ]
+}
